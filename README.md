@@ -7,6 +7,8 @@
     =>Created GitHub remote repository named "devops-module-02-assignment"
         => git init -> git add . -> git commit 
             => git branch -M main -> git remote add origin -> git push -u origin main
+            
+[remote repo link](https://github.com/shanto107/devops-module-02-assignment)
 
 # **Part 3: Create and Work on a New Branch**
     => git branch feature-update -> git switch feature-update    
