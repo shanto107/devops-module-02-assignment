@@ -17,3 +17,10 @@
     <img src="./picture/pull-request-option.png"  width="600px" />
     <img src="./picture/create-pull-request.png"  width="600px" />
 </p>
+
+# **Part 5: Merge and Update Local Repository**
+<p align="center">
+    <img src="./picture/merge-pull-request.png"  width="600px" />
+    <img src="./picture/successful-merge.png"  width="600px" />
+</p>
+
