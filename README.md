@@ -11,9 +11,9 @@
 # **Part 3: Create and Work on a New Branch**
     => git branch feature-update -> git switch feature-update    
         => picture added in the 'feature-update' branch
+    
+# **Part 4: Push the Branch and Create a Pull Request**
 <p align="center">
     <img src="./picture/pull-request-option.png"  width="600px" />
     <img src="./picture/create-pull-request.png"  width="600px" />
-    <img src="./picture/merge-pull-request.png"  width="600px" />
-    <img src="./picture/successful-merge.png"  width="600px" />
 </p>
